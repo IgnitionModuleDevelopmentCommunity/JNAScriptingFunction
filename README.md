@@ -10,10 +10,6 @@ JNA can load DLLs that use C linkage, and therefore will not natively support DL
 
 *Alternatively, there is a 3rd party Visual Studio package available that may help simplify this process:https://www.nuget.org/packages/UnmanagedExports*
 
-**Included Files**
-
-Module Source Code
-
 **Requirements**
 
 Ignition 8.0.2 or later
