@@ -13,7 +13,9 @@ JNA can load DLLs that use C linkage, and therefore will not natively support DL
 **Included Files**
 
 Module Source Code
-Example DLL Source Code written in C.
+
+Example DLL Source Code written in C
+
 Example DLL compiled in 32bit and 64bit versions
 
 **Requirements**
